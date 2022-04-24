@@ -1,0 +1,16 @@
+// To get started, press Ctrl+Space to bring up the completion menu and view the available nodes.
+// For more help, browse the DeviceTree documentation at https://docs.zephyrproject.org/latest/guides/dts/index.html
+// &i2c0 {
+// 	compatible = "nordic,nrf-twi";
+// 	status = "okay";
+// 	sda-pin = <26>;
+// 	scl-pin = <27>;
+// 	clock-frequency = <I2C_BITRATE_STANDARD>;  
+// 	bmeee280: bme280@77 {
+// 		/* 0x76 - SDO <-> GND */
+// 		/* 0x77 - SDO <-> VCC */
+// 		compatible = "bosch,bme280";
+// 		reg = <0x77>;
+// 		label = "ENVIRONMENTAL_SENSORRR";
+// 	};
+// };

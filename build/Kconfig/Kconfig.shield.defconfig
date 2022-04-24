@@ -1,0 +1,6 @@
+osource "c:/Users/Leo/Documents/VisualStudioCode/workspace/beacon/boards/shields/*/Kconfig.defconfig"
+osource "c:/Users/Leo/Documents/VisualStudioCode/workspace/broadcaster/boards/shields/*/Kconfig.defconfig"
+osource "c:/Users/Leo/Documents/VisualStudioCode/workspace/adc/boards/shields/*/Kconfig.defconfig"
+osource "c:/Users/Leo/Desktop/beacon/boards/shields/*/Kconfig.defconfig"
+osource "c:/Users/Leo/Desktop/peripheral_hr/boards/shields/*/Kconfig.defconfig"
+osource "C:/ncs/v1.9.0/nrf/boards/shields/*/Kconfig.defconfig"
